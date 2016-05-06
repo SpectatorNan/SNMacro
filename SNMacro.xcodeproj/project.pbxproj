@@ -51,6 +51,7 @@
 		747395D71CAA312F0021A8EE /* SNMacroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SNMacroUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		747395DB1CAA312F0021A8EE /* SNMacroUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SNMacroUITests.m; sourceTree = "<group>"; };
 		747395DD1CAA312F0021A8EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		747395E91CAA31420021A8EE /* SNMacro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SNMacro.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +111,7 @@
 				747395C41CAA312F0021A8EE /* LaunchScreen.storyboard */,
 				747395C71CAA312F0021A8EE /* Info.plist */,
 				747395B61CAA312F0021A8EE /* Supporting Files */,
+				747395E91CAA31420021A8EE /* SNMacro.h */,
 			);
 			path = SNMacro;
 			sourceTree = "<group>";
